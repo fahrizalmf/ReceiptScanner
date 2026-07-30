@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="primary">#0F3D5C</color>
+    <color name="primary_dark">#0A2A40</color>
+    <color name="primary_light">#3D6E8F</color>
+    <color name="accent">#00B894</color>
+    <color name="accent_dark">#00997A</color>
+
+    <!-- Soft tints (icon chips) -->
+    <color name="primary_soft">#E1EAF2</color>
+    <color name="accent_soft">#DEF7F0</color>
+    <color name="warning_soft">#FDECD2</color>
+    <color name="error_soft">#FBE3E4</color>
+
+    <!-- Surfaces -->
+    <color name="background">#F3F6FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#EEF2F7</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A2332</color>
+    <color name="text_secondary">#6B7686</color>
+    <color name="text_hint">#9AA5B1</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_soft">#CFE0EC</color>
+
+    <!-- Semantic -->
+    <color name="success">#00B894</color>
+    <color name="warning">#F5A623</color>
+    <color name="error">#E5484D</color>
+    <color name="divider">#E3E8EF</color>
+
+    <!-- Legacy aliases (kept so old refs still resolve) -->
+    <color name="purple_500">#0F3D5C</color>
+    <color name="purple_700">#0A2A40</color>
+    <color name="teal_200">#00B894</color>
+</resources>
