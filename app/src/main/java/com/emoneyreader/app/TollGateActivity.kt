@@ -35,7 +35,7 @@ class TollGateActivity : AppCompatActivity() {
             if (name.isNotEmpty()) {
                 lifecycleScope.launch {
                     db.tollGateDao().insert(TollGate(name = name))
-                    binding.etTollGateName.text.clear()
+                    binding.etTollGateName.text?.clear()
                 }
             }
         }
